@@ -1,1 +1,1 @@
-{ cron : Text }
+{ cron : Text, timezone : Optional Text }
