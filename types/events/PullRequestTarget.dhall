@@ -1,4 +1,4 @@
-{ types : Optional ./pull_request_target/types.dhall
+{ types : Optional (List ./pull_request_target/types.dhall)
 , branches : Optional (List Text)
 , branches-ignore : Optional (List Text)
 , paths : Optional (List Text)

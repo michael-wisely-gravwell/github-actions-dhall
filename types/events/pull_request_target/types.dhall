@@ -1,1 +1,1 @@
-< assigned | opened | synchronize | reopened | closed >
+< assigned | opened | synchronize | reopened | closed | enqueued | dequeued >
